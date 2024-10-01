@@ -5,4 +5,3 @@ Estudando os comandos básicos do Java Spring Framework, como:
 - criar um mavem
 - como configurar o aplicattion.properties
 - notações mais importantes (@Service, @RequestBody, etc...)
-- 
